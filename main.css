@@ -1,0 +1,7 @@
+.hide-stuff {
+    display: none;
+}
+
+.styled {
+    box-shadow: 5px 5px 10px red;
+}
